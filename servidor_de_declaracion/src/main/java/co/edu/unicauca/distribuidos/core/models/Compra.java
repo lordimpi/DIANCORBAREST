@@ -11,6 +11,9 @@ public class Compra {
     String MedioPago;
     String NitEmpresa;
 
+    public Compra() {
+    }
+
     public Compra(String identifiacion, String tipoIdentifiacion, double valorCompra, String lugarCompra,
             Date fechaHora, String medioPago, String nitEmpresa) {
         Identifiacion = identifiacion;
