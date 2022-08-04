@@ -12,5 +12,16 @@ public class CompraRepository {
         this.listaCompras = listaCompras;
     }
 
-    
+    public Compra RegistrarCompra(Compra nuevaCompra){
+        System.out.println("Invocando a RegistrarCompra");
+        listaCompras.add(nuevaCompra);
+        if (SumaComprasEnAño(nuevaCompra)) {
+            
+        }
+        return nuevaCompra;
+    }
+
+    private boolean SumaComprasEnAño(Compra compra){
+        return false;
+    }
 }
