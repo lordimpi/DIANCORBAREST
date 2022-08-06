@@ -1,5 +1,6 @@
 package co.edu.unicauca.distribuidos.core.models;
 
+
 import java.util.Date;
 
 public class Compra {
