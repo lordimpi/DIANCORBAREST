@@ -9,6 +9,5 @@ sop_corba\ControladorNotificacionesIntOperations.class
 sop_corba\ControladorNotificacionesIntPackage\NotificacionDTO.class
 sop_corba\ControladorNotificacionesInt.class
 servidor\utilidades\UtilidadesConsola.class
-.netbeans_automatic_build
 servidor\servicios\ServidorDeObjetos.class
 sop_corba\_ControladorNotificacionesIntStub.class
