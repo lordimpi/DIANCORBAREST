@@ -23,7 +23,7 @@ public class CompraServices {
     public Compra registrarCompra(Compra objCompraRegistar) {
         Compra objCompra = null;
         WebTarget target = this.objClientePeticiones.target(
-                this.endPoint + "/" + objCompraRegistar.getIdentifiacion() + "/" + objCompraRegistar.getIdentifiacion());
+                this.endPoint + "/" + objCompraRegistar.getIdentifiacion() + "/" + objCompraRegistar.getTipoIdentifiacion());
         Entity<Compra> data = Entity.entity(objCompraRegistar, MediaType.APPLICATION_JSON_TYPE);
         Builder objPeticion = target.request(MediaType.APPLICATION_JSON_TYPE);
         objCompra = objPeticion.post(data, Compra.class);
