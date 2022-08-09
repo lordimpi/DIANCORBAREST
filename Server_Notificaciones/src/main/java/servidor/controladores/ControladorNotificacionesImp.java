@@ -17,5 +17,4 @@ public class ControladorNotificacionesImp extends ControladorNotificacionesIntPO
         System.out.println("Medio de pago: "+objNotificacion.MedioPago);
         System.out.println("Nit de Empresa: "+objNotificacion.NitEmpresa);
     }
-
 }

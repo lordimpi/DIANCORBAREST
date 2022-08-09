@@ -37,7 +37,7 @@ public class Menu {
     private void Opcion1() {
         objCompraServices = new CompraServices();
         objCompra = new Compra();
-        System.out.println("\nRegistrando un nuevo Compra");
+        System.out.println("\n-----Registrar una nueva compra-----");
         System.out.println("Ingrese el numero de identifiacion: ");
         objCompra.setIdentifiacion(UtilidadesConsola.leerCadena());
         System.out.println("Ingrese el tipo de identificacion: ");

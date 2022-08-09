@@ -1,13 +1,13 @@
-D:\DOCUMENTOS\Documentos Adrian\1 Universidad\2022\1 SEM\1 Sistemas Distribuidos\Parcial 3\DIANCORBAREST\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntHelper.java
-D:\DOCUMENTOS\Documentos Adrian\1 Universidad\2022\1 SEM\1 Sistemas Distribuidos\Parcial 3\DIANCORBAREST\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntPackage\NotificacionDTOHolder.java
-D:\DOCUMENTOS\Documentos Adrian\1 Universidad\2022\1 SEM\1 Sistemas Distribuidos\Parcial 3\DIANCORBAREST\DIANCORBAREST\Server_Notificaciones\src\main\java\servidor\utilidades\UtilidadesRegistroS.java
-D:\DOCUMENTOS\Documentos Adrian\1 Universidad\2022\1 SEM\1 Sistemas Distribuidos\Parcial 3\DIANCORBAREST\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\_ControladorNotificacionesIntStub.java
-D:\DOCUMENTOS\Documentos Adrian\1 Universidad\2022\1 SEM\1 Sistemas Distribuidos\Parcial 3\DIANCORBAREST\DIANCORBAREST\Server_Notificaciones\src\main\java\servidor\controladores\ControladorNotificacionesImp.java
-D:\DOCUMENTOS\Documentos Adrian\1 Universidad\2022\1 SEM\1 Sistemas Distribuidos\Parcial 3\DIANCORBAREST\DIANCORBAREST\Server_Notificaciones\src\main\java\servidor\servicios\ServidorDeObjetos.java
-D:\DOCUMENTOS\Documentos Adrian\1 Universidad\2022\1 SEM\1 Sistemas Distribuidos\Parcial 3\DIANCORBAREST\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesInt.java
-D:\DOCUMENTOS\Documentos Adrian\1 Universidad\2022\1 SEM\1 Sistemas Distribuidos\Parcial 3\DIANCORBAREST\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntHolder.java
-D:\DOCUMENTOS\Documentos Adrian\1 Universidad\2022\1 SEM\1 Sistemas Distribuidos\Parcial 3\DIANCORBAREST\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntPackage\NotificacionDTO.java
-D:\DOCUMENTOS\Documentos Adrian\1 Universidad\2022\1 SEM\1 Sistemas Distribuidos\Parcial 3\DIANCORBAREST\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntOperations.java
-D:\DOCUMENTOS\Documentos Adrian\1 Universidad\2022\1 SEM\1 Sistemas Distribuidos\Parcial 3\DIANCORBAREST\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntPackage\NotificacionDTOHelper.java
-D:\DOCUMENTOS\Documentos Adrian\1 Universidad\2022\1 SEM\1 Sistemas Distribuidos\Parcial 3\DIANCORBAREST\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntPOA.java
-D:\DOCUMENTOS\Documentos Adrian\1 Universidad\2022\1 SEM\1 Sistemas Distribuidos\Parcial 3\DIANCORBAREST\DIANCORBAREST\Server_Notificaciones\src\main\java\servidor\utilidades\UtilidadesConsola.java
+S:\GitHub\Sistemas Distribuidos\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntPackage\NotificacionDTOHolder.java
+S:\GitHub\Sistemas Distribuidos\DIANCORBAREST\Server_Notificaciones\src\main\java\servidor\utilidades\UtilidadesConsola.java
+S:\GitHub\Sistemas Distribuidos\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\_ControladorNotificacionesIntStub.java
+S:\GitHub\Sistemas Distribuidos\DIANCORBAREST\Server_Notificaciones\src\main\java\servidor\utilidades\UtilidadesRegistroS.java
+S:\GitHub\Sistemas Distribuidos\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntPackage\NotificacionDTO.java
+S:\GitHub\Sistemas Distribuidos\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntHelper.java
+S:\GitHub\Sistemas Distribuidos\DIANCORBAREST\Server_Notificaciones\src\main\java\servidor\servicios\ServidorDeObjetos.java
+S:\GitHub\Sistemas Distribuidos\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesInt.java
+S:\GitHub\Sistemas Distribuidos\DIANCORBAREST\Server_Notificaciones\src\main\java\servidor\controladores\ControladorNotificacionesImp.java
+S:\GitHub\Sistemas Distribuidos\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntPackage\NotificacionDTOHelper.java
+S:\GitHub\Sistemas Distribuidos\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntHolder.java
+S:\GitHub\Sistemas Distribuidos\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntOperations.java
+S:\GitHub\Sistemas Distribuidos\DIANCORBAREST\Server_Notificaciones\src\main\java\sop_corba\ControladorNotificacionesIntPOA.java
