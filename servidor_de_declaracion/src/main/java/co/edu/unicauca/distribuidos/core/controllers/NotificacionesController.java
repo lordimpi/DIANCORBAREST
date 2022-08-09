@@ -30,6 +30,7 @@ public class NotificacionesController {
     }
 
     public void Notificar(Compra compra) {
+        System.out.println("Enviando notificacion al servidor de notificaciones...");
         NotificacionDTO notificacion = new NotificacionDTO();
         notificacion.Id = compra.getIdentifiacion();
         notificacion.LugarCompra = compra.getLugarCompra();

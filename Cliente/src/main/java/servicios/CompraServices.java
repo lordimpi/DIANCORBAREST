@@ -21,6 +21,7 @@ public class CompraServices {
     }
 
     public Compra registrarCompra(Compra objCompraRegistar) {
+        System.out.println("Enviando peticion registrar compra al servidor REST...");
         Compra objCompra = null;
         WebTarget target = this.objClientePeticiones.target(
                 this.endPoint + "/" + objCompraRegistar.getIdentifiacion() + "/" + objCompraRegistar.getTipoIdentifiacion());
