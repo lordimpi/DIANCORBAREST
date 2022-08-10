@@ -11,7 +11,7 @@ public class ControladorNotificacionesImp extends ControladorNotificacionesIntPO
         System.out.println("-------Nueva notificacion---------");
         System.out.println("Id: "+objNotificacion.Id);
         System.out.println("Tipo de Identificacion: "+objNotificacion.TipoIdentificacion);
-        System.out.printf("%nValorCompra: %,2f",objNotificacion.ValorCompra);
+        System.out.printf("%nValorCompra: %,.2f\n",objNotificacion.ValorCompra);
         System.out.println("Lugar de Compra: "+objNotificacion.LugarCompra);
         System.out.println("Fecha y Hora de Compra: "+objNotificacion.FechaHora);
         System.out.println("Medio de pago: "+objNotificacion.MedioPago);

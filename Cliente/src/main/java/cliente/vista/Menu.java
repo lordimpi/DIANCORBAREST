@@ -2,7 +2,7 @@ package cliente.vista;
 
 import Models.Compra;
 import java.util.Date;
-import servicios.CompraServices;
+import cliente.servicios.CompraServices;
 import utilidades.UtilidadesConsola;
 
 public class Menu {
